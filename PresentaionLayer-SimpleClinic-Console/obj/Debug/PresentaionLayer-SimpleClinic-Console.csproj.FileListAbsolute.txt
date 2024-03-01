@@ -1,0 +1,12 @@
+C:\Users\Mustafa\source\repos\FullSimpleClinic\PresentaionLayer-SimpleClinic-Console\bin\Debug\PresentaionLayer-SimpleClinic-Console.exe.config
+C:\Users\Mustafa\source\repos\FullSimpleClinic\PresentaionLayer-SimpleClinic-Console\bin\Debug\PresentaionLayer-SimpleClinic-Console.exe
+C:\Users\Mustafa\source\repos\FullSimpleClinic\PresentaionLayer-SimpleClinic-Console\bin\Debug\PresentaionLayer-SimpleClinic-Console.pdb
+C:\Users\Mustafa\source\repos\FullSimpleClinic\PresentaionLayer-SimpleClinic-Console\bin\Debug\BusinessLayer-FullSimpleClinic.dll
+C:\Users\Mustafa\source\repos\FullSimpleClinic\PresentaionLayer-SimpleClinic-Console\bin\Debug\DataAccess-FullSimpleClinic.dll
+C:\Users\Mustafa\source\repos\FullSimpleClinic\PresentaionLayer-SimpleClinic-Console\bin\Debug\BusinessLayer-FullSimpleClinic.pdb
+C:\Users\Mustafa\source\repos\FullSimpleClinic\PresentaionLayer-SimpleClinic-Console\bin\Debug\DataAccess-FullSimpleClinic.pdb
+C:\Users\Mustafa\source\repos\FullSimpleClinic\PresentaionLayer-SimpleClinic-Console\obj\Debug\PresentaionLayer-SimpleClinic-Console.csproj.AssemblyReference.cache
+C:\Users\Mustafa\source\repos\FullSimpleClinic\PresentaionLayer-SimpleClinic-Console\obj\Debug\PresentaionLayer-SimpleClinic-Console.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\source\repos\FullSimpleClinic\PresentaionLayer-SimpleClinic-Console\obj\Debug\PresentaionLayer-SimpleClinic-Console.csproj.CopyComplete
+C:\Users\Mustafa\source\repos\FullSimpleClinic\PresentaionLayer-SimpleClinic-Console\obj\Debug\PresentaionLayer-SimpleClinic-Console.exe
+C:\Users\Mustafa\source\repos\FullSimpleClinic\PresentaionLayer-SimpleClinic-Console\obj\Debug\PresentaionLayer-SimpleClinic-Console.pdb

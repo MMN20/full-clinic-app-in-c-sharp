@@ -1,0 +1,6 @@
+C:\Users\Mustafa\source\repos\FullSimpleClinic\DataAccess-FullSimpleClinic\bin\Debug\DataAccess-FullSimpleClinic.dll
+C:\Users\Mustafa\source\repos\FullSimpleClinic\DataAccess-FullSimpleClinic\bin\Debug\DataAccess-FullSimpleClinic.pdb
+C:\Users\Mustafa\source\repos\FullSimpleClinic\DataAccess-FullSimpleClinic\obj\Debug\DataAccess-FullSimpleClinic.csproj.AssemblyReference.cache
+C:\Users\Mustafa\source\repos\FullSimpleClinic\DataAccess-FullSimpleClinic\obj\Debug\DataAccess-FullSimpleClinic.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\source\repos\FullSimpleClinic\DataAccess-FullSimpleClinic\obj\Debug\DataAccess-FullSimpleClinic.dll
+C:\Users\Mustafa\source\repos\FullSimpleClinic\DataAccess-FullSimpleClinic\obj\Debug\DataAccess-FullSimpleClinic.pdb
